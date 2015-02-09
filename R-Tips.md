@@ -21,7 +21,8 @@ Note: dependencies are automatically isntalled
     install.packages(c("package1", "package2", "package3"))
 
 ##### Installing Bioconductor (medical) packages
-    See bioconductor.org/install
+
+See [bioconductor.org/install](bioconductor.org/install)
 
 ##### Load library
 Note: needs to be done before library can be used

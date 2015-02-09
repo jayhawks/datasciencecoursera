@@ -14,7 +14,7 @@
 
 ##### Install R packages
 Note: dependencies are automatically isntalled
-    install.packages("StringPackageName")
+      install.packages("StringPackageName")
 
 ##### Install multiple R packages at once
     install.packages(c("package1", "package2", "package3"))
@@ -24,4 +24,4 @@ Note: dependencies are automatically isntalled
 
 ##### Load library
 Note: needs to be done before library can be used
-    library(packageNameNoQuotes)
+     library(packageNameNoQuotes)

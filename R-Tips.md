@@ -30,7 +30,7 @@ Note: needs to be done before library can be used
      library(packageNameNoQuotes)
 
 #### Recommended Readings
-* Simply Statistics http:simplystatistics.org
+* Simply Statistics http://simplystatistics.org
 * R-bloggers http:www.r-bloggers.com
 * DataTau http://datatau.com
 * KD Nuggets http://www.kdnuggets.com

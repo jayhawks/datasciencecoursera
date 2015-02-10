@@ -35,3 +35,4 @@ Note: needs to be done before library can be used
 * DataTau http://datatau.com
 * KD Nuggets http://www.kdnuggets.com
 * Revolutions http://blog.revolutionanalytics.com/statistics
+* Data Scientists Insights http://datascientistinsights.com
